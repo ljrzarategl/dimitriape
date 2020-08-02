@@ -5,4 +5,5 @@ google_analytics:
 theme: jekyll-theme-midnight
 github:
   owner_name: ljrzarate
-  owner_url: https://github.com/ljrzarate/
+  owner_url: https://github.com/ljrzarate
+baseurl: /dimitriape

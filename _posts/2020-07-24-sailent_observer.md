@@ -1,7 +1,8 @@
 ---
+name: silent_observer
 layout: default
 title:  "The silent observer"
-tags:
+tags: silent_observer
 ---
 
 The silent observer
