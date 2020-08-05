@@ -1,7 +1,7 @@
 ---
-name: man_mistery
+name: man_mystery
 layout: default
-title:  "Man's Gratest Mystery "
+title:  "Man's Gratest Mystery"
 tags: silent_observer
 ---
 
