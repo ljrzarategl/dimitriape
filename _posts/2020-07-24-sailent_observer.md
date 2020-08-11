@@ -3,6 +3,7 @@ name: silent_observer
 layout: default
 title:  "The silent observer"
 tags: silent_observer
+categories: General
 ---
 
 The silent observer
